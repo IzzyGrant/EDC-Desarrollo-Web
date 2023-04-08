@@ -4,15 +4,20 @@ Repositorio de apoyo para Taller de Desarrollo Web Escuela de Código/PILARES
 
 📚 Temas Principales del Taller
 
- + 1.1 📝Introducción (❌)
+ + 2.1 📝Introducción (❌)
+   + 2.1.PE 🤓 ???? (❌)
+   
+ + 2.2 🛠Herramientas para la creación de páginas web (❌)
+   + 2.2.PE 🤓 ???? (❌)
  
- + 1.2 🛠Herramientas para la creación de páginas web (❌)
+ + 2.3 🏠Estructura básica de un documento HTML (❌)
+   + 2.3.PE 🤓 ???? (❌)
  
- + 1.3 🏠Estructura básica de un documento HTML (❌)
+ + 2.4 ✏Lenguaje de marcado/etiquetado HTML (❌)
+   + 2.4.PE 🤓 ???? (❌)
  
- + 1.4 ✏Lenguaje de marcado/etiquetado HTML (❌)
- 
- + 1.5 🎨Lenguaje de diseño gráfico CSS (❌)
+ + 2.5 🎨Lenguaje de diseño gráfico CSS (❌)
+   + 2.5.PE 🤓 ???? (❌)
  
 ## ☺ Sitio(s) Recomendado(s)
 
