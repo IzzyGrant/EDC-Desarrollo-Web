@@ -5,9 +5,13 @@ Repositorio de apoyo para Taller de Desarrollo Web Escuela de Código/PILARES
 📚 Temas Principales del Taller
 
  + 1.1 📝Introducción (❌)
+ + 
  + 1.2 📝Herramientas para la creación de páginas web (❌)
+ + 
  + 1.3 📝Estructura básica de un documento HTML (❌)
+ + 
  + 1.4 📝Lenguaje de marcado/etiquetado HTML (❌)
+ + 
  + 1.5 📝Lenguaje de diseño gráfico CSS (❌)
 
 ## 📚 Referencias:
@@ -31,4 +35,4 @@ Recuperado 18 de marzo de 2022](https://developer.mozilla.org/es/docs/Learn/Gett
 
  + 📙 [W3Schools Free Online Web Tutorials. (s. f.). W3Schools. Recuperado 18 de marzo de 2022](https://www.w3schools.com/)
 
-
+😁 Yes, you can!
