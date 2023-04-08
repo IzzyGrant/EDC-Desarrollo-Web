@@ -1,0 +1,37 @@
+# ✅ Introduccion
+
+## ❗ Contexto Histórico
+
+Cuando **Tim Berners-Lee** publicó la primera página web a finales de 1990 en el CERN, la
+web era muy distinta a como la conocemos en la actualidad. Las páginas web sólo tenían
+texto. En los 31 años de historia de la web, el lenguaje de marcado o etiquetado que se
+emplea para crear las páginas web ha evolucionado poco a poco y se han ido
+desarrollando sucesivas versiones. A la versión inicial del lenguaje se añadieron nuevas
+características como las imágenes, las tablas o los marcos que permitían dividir las
+páginas web en varias partes. Las páginas web fueron evolucionando y cada vez
+contenían más imágenes. Los diseñadores gráficos se incorporaron al desarrollo de las
+páginas web y se desarrolló una nueva disciplina: el diseño web. Además, los
+navegadores web, cada vez eran más potentes y las conexiones Internet más rápidas, así
+que, las páginas web cada vez mostraban más información.
+Durante los primeros cinco años la web sólo servía para leer, para consumir contenidos,
+no existía mucha interacción con las páginas web. Sin embargo, cuando se añadieron los
+formularios la web comenzó a cambiar. Los formularios permitían un mayor grado de
+interacción entre el usuario y las páginas web. Además, el lenguaje incorporó la
+posibilidad de añadir nuevos tipos de contenidos a las páginas web como audio, vídeo o
+animaciones y, los navegadores web se volvieron más rápidos y más potentes. Todo ello
+ayudó a que las páginas web se transformarán en aplicaciones web, en inglés, Web Apps,
+que permiten realizar a través de una página web las mismas tareas que
+tradicionalmente se realizaban mediante un software instalado en un ordenador a partir
+de un CD-ROM.
+Hoy en día, a través de una página web podemos enviar correos electrónicos, podemos
+jugar, podemos editar fotografías, podemos ver vídeos o incluso, podemos editar los
+vídeos, todo ello a través de una página web.
+
+
+## 🌐 Enlaces Complementarios
+
+ + 🎥 [Tim Berners-Lee: creador de la World Wide Web(5:14min.)](https://www.youtube.com/watch?v=SNw4m1m_2GE&ab_channel=DWEspa%C3%B1ol)
+ + 📄 [¿Qué es un Algoritmo?(-5min. de lectura)](https://concepto.de/algoritmo-en-informatica/)
+
+
+😁 by Izzy.
