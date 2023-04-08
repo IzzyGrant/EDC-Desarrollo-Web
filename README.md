@@ -14,7 +14,7 @@ Repositorio de apoyo para Taller de Desarrollo Web Escuela de Código/PILARES
  
  + 1.5 🎨Lenguaje de diseño gráfico CSS (❌)
  
-## 📚 Sitio(s) Recomendado(s)
+## ☺ Sitio(s) Recomendado(s)
 
  + 1 ✨[FreeCodeCamp - Diseño Web Adaptativo](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
  >En esta certificación de Diseño Web Adaptativo, aprenderás los lenguajes que los desarrolladores usan para construir páginas web: HTML (Lenguaje de Marcado de Hipertexto) para el contenido, y CSS (hojas de estilo en cascada) para el diseño.
