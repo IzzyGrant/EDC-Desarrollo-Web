@@ -8,7 +8,7 @@ Repositorio de apoyo para Taller de Desarrollo Web Escuela de Código/PILARES
 
  + 2.2 🛠[Herramientas para la creación de páginas web](https://github.com/IzzyGrant/EDC-Desarrollo-Web/blob/main/2.2%20Herramientas%20para%20la%20creaci%C3%B3n%20de%20p%C3%A1ginas%20web.md) (✔)
  
- + 2.3 🏠Estructura básica de un documento HTML (❌)
+ + 2.3 🏠[Estructura básica de un documento HTML](https://github.com/IzzyGrant/EDC-Desarrollo-Web/blob/main/2.3%20Estructura%20b%C3%A1sica%20de%20un%20documento%20HTML.md) (🛠)
  
  + 2.4 ✏Lenguaje de marcado/etiquetado HTML (❌)
  
